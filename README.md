@@ -30,3 +30,7 @@ npm run dev
 
 
 
+##  二、效果演示
+
+![](https://github.com/wisewrong/Test-GraphQL-App/blob/master/fe/public/demo_1.gif?raw=true)
+
