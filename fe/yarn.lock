@@ -4222,9 +4222,9 @@ hex-color-regex@^1.1.0:
   integrity sha1-TAb8y0YC/iYCs8k9+C1+fb8aio4=
 
 highlight.js@^9.6.0:
-  version "9.18.1"
-  resolved "https://registry.npm.taobao.org/highlight.js/download/highlight.js-9.18.1.tgz#ed21aa001fe6252bb10a3d76d47573c6539fe13c"
-  integrity sha1-7SGqAB/mJSuxCj121HVzxlOf4Tw=
+  version "9.18.5"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.18.5.tgz#d18a359867f378c138d6819edfc2a8acd5f29825"
+  integrity sha512-a5bFyofd/BHCX52/8i8uJkjr9DYwXIPnM/plwI6W7ezItLGqzt7X2G2nXuYSfsIJdkwwj/g9DG1LkcGJI/dDoA==
 
 hmac-drbg@^1.0.0:
   version "1.0.1"
@@ -8246,11 +8246,6 @@ vue-loader@^15.9.2:
     loader-utils "^1.1.0"
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
-
-vue-router@^3.2.0:
-  version "3.3.4"
-  resolved "https://registry.npm.taobao.org/vue-router/download/vue-router-3.3.4.tgz?cache=0&sync_timestamp=1594111718735&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvue-router%2Fdownload%2Fvue-router-3.3.4.tgz#4e38abc34a11c41b6c3d8244449a2e363ba6250b"
-  integrity sha1-Tjirw0oRxBtsPYJERJouNjumJQs=
 
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
   version "4.1.2"
